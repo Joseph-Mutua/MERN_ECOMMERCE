@@ -1,6 +1,6 @@
 [submodule "front_client"]
 	path = front_client
 	url = git@github.com:Joseph-Mutua/front_client.git
-[submodule "server"]
-	path = server
-	url = ./server
+[submodule "backend_server"]
+	path = backend_server
+	url = git@github.com:Joseph-Mutua/backend_server.git
